@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1751232679 source:c:\users\rodri\onedrive\escritorio\juego final\juego final\funciones.cpp
+	"funciones.h"
+
+1751233973 c:\users\rodri\onedrive\escritorio\juego final\juego final\funciones.h
+	<iostream>
+	<time.h>
+	<ctime>
+
+1751232679 source:c:\users\rodri\onedrive\escritorio\juego final\juego final\main.cpp
+	"funciones.h"
+	<iostream>
+
